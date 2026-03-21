@@ -1,7 +1,7 @@
 # Aether Suite
 Aether Suite : 9 open-source Android apps to replace every default app on your phone.  No ads. No tracking. No account needed. Your data stays on your phone, always.
 
-
+https://github.com/convergence-human-technology/AetherSuite/tree/main
 
 #
 
@@ -18,13 +18,5 @@ Aether Suite : 9 open-source Android apps to replace every default app on your p
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)
 ![Ads: None](https://img.shields.io/badge/Ads-None-red.svg)
 ![Tracking: None](https://img.shields.io/badge/Tracking-None-red.svg)
-
----
-
-# AetherSuite
-
-**9 open-source Android apps to replace every default app on your phone.**
-
-No ads. No tracking. No account needed. Your data stays on your phone, always.
 
 ---
